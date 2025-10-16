@@ -1,1 +1,3 @@
-# RemainingUsefulLife-RUL-
+# RemainingUsefulLife-RUL
+
+During their lifetime, aircraft components are susceptible to degradation, which affects directly their reliability and performance. This machine learning project will be directed to provide a framework for predict- ing the aircraft’s remaining useful life (RUL) based on the entire life cycle data in order to provide the necessary maintenance behavior. Diverse regression, classification models (KNN, Naïve Bayes, Random Forest, SVM, etc..) are deployed and tested on the NASA’s C-MAPSS data-set to assess the engine’s lifetime. Please check the report for more theoretical details
